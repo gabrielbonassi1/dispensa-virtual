@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinanceDashboard.Application/1.0.0": {
+        "dependencies": {
+          "FinanceDashboard.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceDashboard.Application.dll": {}
+        }
+      },
+      "FinanceDashboard.Domain/1.0.0": {
+        "runtime": {
+          "FinanceDashboard.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceDashboard.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceDashboard.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
