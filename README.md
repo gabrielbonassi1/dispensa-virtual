@@ -36,3 +36,15 @@ As opposed to React, in Angular we divide the component's logic, template and st
 - Core: Global Services (Auth, API Wrapper)
 - Features: Dashboard Module, Import Module, Config Module
 - Shared: Repeating UI Components.
+
+### Development
+##### Running Postgres and pgAdmin:
+´´´
+docker compose up -d
+´´´
+pgAdmin's interface is at http://127.0.0.1:8080/
+
+**Closing docker containers:**
+```
+docker compose down
+```
