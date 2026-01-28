@@ -15,8 +15,12 @@ The main idea is create a dashboard for organizing personal finances.
 **Clean Architecture**
 ![Clean Architecture Diagram](clean_arch.png)
 - Domain: Entities (classes representing the DB tables); Enums (fixed types); Interfaces: (what should be done)
+  - Entities:
+    - Product: the definition of a type of product;
+    - InventoryItem: the instance of a product;
+    - StorageLocation: the place where an InventoryItem;
 - Application: Services; Data Transfer Objects; Validators
-- Infrastructure:
+- Infrastructure: Creating the bridge between the entities and the database.
 - Presentation/API: Controllers (Endpoints); Middlewares; Configurations
 
 Example: Storing a purchase:
