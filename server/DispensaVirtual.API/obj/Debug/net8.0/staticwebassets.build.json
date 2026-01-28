@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TCMlVggBnL0JsEDhzvV+XuZYPQfIwb6vdtpRE9Rr7VA=",
+  "Source": "DispensaVirtual.API",
+  "BasePath": "_content/DispensaVirtual.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/bin/Debug/net8.0/DispensaVirtual.Domain.deps.json
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/bin/Debug/net8.0/DispensaVirtual.Domain.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/bin/Debug/net8.0/DispensaVirtual.Domain.pdb
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.AssemblyInfoInputs.cache
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.AssemblyInfo.cs
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.csproj.CoreCompileInputs.cache
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.sourcelink.json
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/refint/DispensaVirtual.Domain.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/DispensaVirtual.Domain.pdb
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Domain/obj/Debug/net8.0/ref/DispensaVirtual.Domain.dll

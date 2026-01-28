@@ -1,0 +1,16 @@
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/bin/Debug/net8.0/DispensaVirtual.Application.deps.json
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/bin/Debug/net8.0/DispensaVirtual.Application.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/bin/Debug/net8.0/DispensaVirtual.Application.pdb
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/bin/Debug/net8.0/DispensaVirtual.Domain.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/bin/Debug/net8.0/DispensaVirtual.Domain.pdb
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.csproj.AssemblyReference.cache
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.AssemblyInfoInputs.cache
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.AssemblyInfo.cs
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.csproj.CoreCompileInputs.cache
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.sourcelink.json
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.csproj.CopyComplete
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/refint/DispensaVirtual.Application.dll
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/DispensaVirtual.Application.pdb
+/home/gabriel/personal-finances-dashboard/server/DispensaVirtual.Application/obj/Debug/net8.0/ref/DispensaVirtual.Application.dll
