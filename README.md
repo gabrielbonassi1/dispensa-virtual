@@ -16,12 +16,17 @@ With a possibility of a Cloud functionality for syncing a pantry withing a house
 
 ### Development
 ##### Running Postgres and pgAdmin:
-```
+```bash
 docker compose up -d
 ```
 pgAdmin's interface is at http://127.0.0.1:8080/
 
 **Closing docker containers:**
-```
+```bash
 docker compose down
+```
+
+##### Building the frontend app:
+```bash
+eas build --profile development --platform android
 ```
